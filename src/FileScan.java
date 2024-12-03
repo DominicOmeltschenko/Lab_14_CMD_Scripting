@@ -75,12 +75,10 @@ public class FileScan {
                                 numberOfWords++;
                             }
                             numberOfChars = numberOfChars + line.length();
-                            System.out.println("File " + target.getFileName() + " successfully read!");
+
 
                         }
-
-
-
+                        System.out.println("File " + target.getFileName() + " successfully read!");
                         inFile.close();
 
                     } else {
