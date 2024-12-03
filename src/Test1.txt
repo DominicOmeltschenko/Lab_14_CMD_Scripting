@@ -1,0 +1,5 @@
+This is a Test File to test the program
+This Test File will test it's ability to work correctly
+This Test File should have a total of five lines
+This Test File should have a total of fifty-one words
+This Test File should have a total of two-hundred and sixty-eight letters

@@ -1,0 +1,7 @@
+This is the second test file
+This file is intended to be longer
+This file should be named Test2
+This file was written with notepad
+This file should have seven lines
+This file should have forty-five words
+This file should have two-hundred and fifty-six characters
